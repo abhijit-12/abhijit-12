@@ -1,4 +1,4 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562)
+![[MasterHead](https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562)
 <h1 align="center">Hi ??, I'm Abhijit Das</h1>
 <h3 align="center">A passionate frontend & Full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_640.gifv"/>
